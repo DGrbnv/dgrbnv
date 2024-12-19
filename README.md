@@ -25,8 +25,9 @@
 |Название проекта| Описание проекта|
 |----------------|-----------------|
 |[А/B-тестирование новой механики оплаты](https://github.com/DGrbnv/A-B-testing-statistics)|Предобработка данных, разведывательный анализ, расчет метрик, автоматическая загрузка новых данных и построение графиков.|
-|[Сравнение производительности](https://github.com/DGrbnv/speed_comparsion)|Поиск наиболее оптимального метода по использованию ресурсов.
-|[ETL Clickhouse](https://github.com/DGrbnv/etl_clickhouse)|Выгрузка данных из Clickhouse c последующей обработкой при помощи `pandas`
+|[A/A тестирование]|(https://github.com/DGrbnv/A-A-split-test)|Моделируем А/А-тестирование для проверки качества системы сплитирования.|
+|[Сравнение производительности](https://github.com/DGrbnv/speed_comparsion)|Поиск наиболее оптимального метода по использованию ресурсов.|
+|[ETL Clickhouse](https://github.com/DGrbnv/etl_clickhouse)|Выгрузка данных из Clickhouse c последующей обработкой при помощи `pandas`.|
 
 <!--
 **DGrbnv/dgrbnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
