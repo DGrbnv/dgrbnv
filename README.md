@@ -45,7 +45,5 @@
 
 | Проект | Описание |
 |---|---|
-| **[ETL ClickHouse](https://github.com/DGrbnv/etl_clickhouse)** | Извлечение данных из ClickHouse, обработка с помощью Python и pandas, анализ и визуализация результатов. |
 | **[E-commerce Analytics](https://github.com/DGrbnv/e_commerce)** | Анализ покупательского поведения: RFM-сегментация, когортный анализ и исследование метрик заказов. |
-| **[A/B Testing](https://github.com/DGrbnv/A-B-testing-statistics)** | Учебный кейс по оценке эффективности новой механики оплаты: расчёт метрик и статистический анализ результатов эксперимента. |
 | **[Printer Monitor](https://github.com/DGrbnv/printer_monitor)** | Python-сервис мониторинга 3D-принтеров с Telegram-уведомлениями, журналированием событий и хранением данных в SQLite. |
