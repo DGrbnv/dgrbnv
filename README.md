@@ -1,3 +1,36 @@
+# Дмитрий Горбунов
+
+**Data Analyst | SQL · Python · ETL · Reporting Automation**
+
+Аналитик данных. Работаю с SQL и Python: занимаюсь подготовкой и анализом данных, автоматизацией отчётности и исследованием метрик.
+
+В этом профиле собраны проекты, демонстрирующие мой подход к решению аналитических и технических задач.
+
+### Инструменты
+
+- **SQL:** PostgreSQL, ClickHouse, MySQL
+- **Python:** pandas, NumPy, SciPy
+- **Визуализация:** Plotly, Jupyter Notebook
+- **Дополнительно:** Git, Linux
+
+### Проекты
+
+**[E-commerce Analytics](https://github.com/DGrbnv/e_commerce)**
+
+Анализ покупательского поведения: RFM-сегментация, когортный анализ и исследование метрик заказов.
+
+**[ETL · ClickHouse](https://github.com/DGrbnv/etl_clickhouse)**
+
+Извлечение данных из ClickHouse, обработка с помощью Python и pandas, анализ и визуализация результатов.
+
+**[A/B Testing](https://github.com/DGrbnv/A-B-testing-statistics)**
+
+Учебный кейс по оценке результатов эксперимента с изменением механики оплаты. Анализ метрик и проверка статистической значимости.
+
+**[Printer Monitor](https://github.com/DGrbnv/printer_monitor)**
+
+Python-приложение для мониторинга оборудования: уведомления в Telegram, логирование событий и хранение данных в SQLite.
+<!--
 ![banner](https://static-cdn.jtvnw.net/jtv_user_pictures/71717c6b-202a-4d6a-8785-77a3c72e6d4a-profile_banner-480.png")
 
 
@@ -32,7 +65,7 @@
 |[Сравнение производительности](https://github.com/DGrbnv/speed_comparsion)|Поиск наиболее оптимального метода по использованию ресурсов.|
 |[ETL Clickhouse](https://github.com/DGrbnv/etl_clickhouse)|Выгрузка данных из Clickhouse c последующей обработкой при помощи `pandas`.|
 |[E-commerce](https://github.com/DGrbnv/e_commerce)|Разведывательный анализ данных покупок с RFM-сегментацией и когортным анализом пользователей.|
-
+-->
 <!--
 **DGrbnv/dgrbnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
