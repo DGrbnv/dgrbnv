@@ -1,82 +1,51 @@
 # Дмитрий Горбунов
 
-**Data Analyst | SQL · Python · ETL · Reporting Automation**
+**Data Analyst | SQL · Python · ETL · Data Quality**
 
-Аналитик данных. Работаю с SQL и Python: занимаюсь подготовкой и анализом данных, автоматизацией отчётности и исследованием метрик.
+Занимаюсь подготовкой и анализом данных, разработкой и сопровождением ETL-процессов, контролем качества данных и автоматизацией отчётности.
 
-В этом профиле собраны проекты, демонстрирующие мой подход к решению аналитических и технических задач.
+Работаю с SQL и Python, аналитическими базами данных и инструментами оркестрации. Помимо аналитических задач, разрабатываю прикладные решения для автоматизации и мониторинга.
 
-### Инструменты
+### Stack
 
-- **SQL:** PostgreSQL, ClickHouse, MySQL
-- **Python:** pandas, NumPy, SciPy
-- **Визуализация:** Plotly, Jupyter Notebook
-- **Дополнительно:** Git, Linux
+**Языки и анализ данных**
 
-### Проекты
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-555555?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-505050?style=flat-square)
 
-**[E-commerce Analytics](https://github.com/DGrbnv/e_commerce)**
+**Базы данных и хранилища**
 
-Анализ покупательского поведения: RFM-сегментация, когортный анализ и исследование метрик заказов.
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Greenplum](https://img.shields.io/badge/Greenplum-169B62?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**[ETL · ClickHouse](https://github.com/DGrbnv/etl_clickhouse)**
+**ETL и инфраструктура**
 
-Извлечение данных из ClickHouse, обработка с помощью Python и pandas, анализ и визуализация результатов.
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**[A/B Testing](https://github.com/DGrbnv/A-B-testing-statistics)**
+**Визуализация и аналитическая среда**
 
-Учебный кейс по оценке результатов эксперимента с изменением механики оплаты. Анализ метрик и проверка статистической значимости.
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-**[Printer Monitor](https://github.com/DGrbnv/printer_monitor)**
-
-Python-приложение для мониторинга оборудования: уведомления в Telegram, логирование событий и хранение данных в SQLite.
-<!--
-![banner](https://static-cdn.jtvnw.net/jtv_user_pictures/71717c6b-202a-4d6a-8785-77a3c72e6d4a-profile_banner-480.png")
-
-
-## Привет, меня зовут Дмитрий👋
-
-С анализом данных я познакомился ещё во время работы на кафедре университета, обрабатывая данные экспериментов и проводя в исследованиях. Далее самостоятельно занимался развитием в этой области, решаю практические задачи и реализую проекты при помощи Python, SQL и математической статистики
-
-### Стек 
-<div align="left">
-  
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat)
-![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat)
-![Plotly Badge](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat)
-![SciPy Badge](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=flat)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-![ClickHouse Badge](https://img.shields.io/badge/ClickHouse-FFCC01?logo=clickhouse&logoColor=000&style=flat)
-![SQLAlchemy Badge](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff&style=flat)
-![Apache Airflow Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
-![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)
-
-</div>
+---
 
 ### Проекты
-|Название проекта| Описание проекта|
-|----------------|-----------------|
-|[А/B-тестирование новой механики оплаты](https://github.com/DGrbnv/A-B-testing-statistics)|Предобработка данных, разведывательный анализ, расчет метрик, автоматическая загрузка новых данных и построение графиков.|
-|[A/A тестирование](https://github.com/DGrbnv/A-A-split-test)|Моделируем А/А-тестирование для проверки качества системы сплитирования.|
-|[Сравнение производительности](https://github.com/DGrbnv/speed_comparsion)|Поиск наиболее оптимального метода по использованию ресурсов.|
-|[ETL Clickhouse](https://github.com/DGrbnv/etl_clickhouse)|Выгрузка данных из Clickhouse c последующей обработкой при помощи `pandas`.|
-|[E-commerce](https://github.com/DGrbnv/e_commerce)|Разведывательный анализ данных покупок с RFM-сегментацией и когортным анализом пользователей.|
--->
-<!--
-**DGrbnv/dgrbnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Проект | Описание |
+|---|---|
+| **[ETL ClickHouse](https://github.com/DGrbnv/etl_clickhouse)** | Извлечение данных из ClickHouse, обработка с помощью Python и pandas, анализ и визуализация результатов. |
+| **[E-commerce Analytics](https://github.com/DGrbnv/e_commerce)** | Анализ покупательского поведения: RFM-сегментация, когортный анализ и исследование метрик заказов. |
+| **[A/B Testing](https://github.com/DGrbnv/A-B-testing-statistics)** | Учебный кейс по оценке эффективности новой механики оплаты: расчёт метрик и статистический анализ результатов эксперимента. |
+| **[Printer Monitor](https://github.com/DGrbnv/printer_monitor)** | Python-сервис мониторинга принтеров с Telegram-уведомлениями, журналированием событий и хранением данных в SQLite. |
