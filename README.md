@@ -1,6 +1,6 @@
 # Дмитрий Горбунов
 
-**Data Analyst | SQL · Python · ETL · Data Quality**
+**Data Analyst | SQL · Python · ETL · Reporting Automation · Data Quality**
 
 Занимаюсь подготовкой и анализом данных, разработкой и сопровождением ETL-процессов, контролем качества данных и автоматизацией отчётности.
 
