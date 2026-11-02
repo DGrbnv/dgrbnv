@@ -45,5 +45,5 @@
 
 | Проект | Описание |
 |---|---|
-| **[E-commerce Analytics](https://github.com/DGrbnv/e_commerce)** | Анализ покупательского поведения: RFM-сегментация, когортный анализ и исследование метрик заказов. |
+| **[E-commerce Analytics](https://github.com/DGrbnv/e_commerce)** | Исследование задержек доставки Olist и выбор направлений для проверки. Анализ повторных покупок, когорт и RFM-групп. |
 | **[Printer Monitor](https://github.com/DGrbnv/printer_monitor)** | Python-сервис мониторинга 3D-принтеров с Telegram-уведомлениями, журналированием событий и хранением данных в SQLite. |
