@@ -46,4 +46,5 @@
 | Проект | Описание |
 |---|---|
 | **[E-commerce Analytics](https://github.com/DGrbnv/e_commerce)** | Исследование задержек доставки Olist и выбор направлений для проверки. Анализ повторных покупок, когорт и RFM-групп. |
+| **[NYC Taxi ETL](https://github.com/DGrbnv/nyc_taxi_etl)** | Подготовка почасовой витрины поездок: SQL в ClickHouse, загрузка в SQLite, проверка качества данных и анализ нагрузки по зонам. |
 | **[Printer Monitor](https://github.com/DGrbnv/printer_monitor)** | Python-сервис мониторинга 3D-принтеров с Telegram-уведомлениями, журналированием событий и хранением данных в SQLite. |
